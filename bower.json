@@ -1,0 +1,27 @@
+{
+  "name": "ng-model-default",
+  "main": "ng-model-default.js",
+  "version": "0.1.0",
+  "authors": [
+    "Andrew Stuart <andrew.stuart2@gmail.com>"
+  ],
+  "description": "An angular directive for dynamically updating an input with a default value",
+  "keywords": [
+    "default"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.4.6",
+    "lodash": "~3.10.1"
+  },
+  "dependencies": {
+    "angular": "~1.4.6"
+  }
+}
